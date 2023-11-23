@@ -1,6 +1,6 @@
 <!-- Add your banner image and profile image URLs -->
 <img src="https://i.ibb.co/SNC335f/home-service-image-2.png)](https://contentstatic.techgig.com/photo/76118246/5-personal-characteristics-of-successful-programmers.jpg?119058" alt="Banner Image" />
-<img src="your_profile_image_url" alt="Profile Image" />
+<img height="400" width="400" src="https://i.ibb.co/LkD2Lnv/IMG-20181215-123138.jpg" alt="Profile Image" />
 
 <h1 align="center" style="font-family: 'Fira Code', monospace;">Hi there! 👋 I'm Faysal Ahmed Ashik</h1>
 <h3 align="center" style="font-family: 'Fira Code', monospace;">Passionate Frontend Developer from Rajshahi, Bangladesh</h3>
