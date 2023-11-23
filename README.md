@@ -1,6 +1,6 @@
 <!-- Add your banner image and profile image URLs -->
 <img src="https://i.ibb.co/SNC335f/home-service-image-2.png)](https://contentstatic.techgig.com/photo/76118246/5-personal-characteristics-of-successful-programmers.jpg?119058" alt="Banner Image" /><div align="center">
-  <img src="your_profile_image_url" alt="Profile Image" style="border-radius: 50%; width: 150px; height: 150px;" />
+  <img src="https://i.ibb.co/LkD2Lnv/IMG-20181215-123138.jpg" alt="Profile Image" style="border-radius: 50%; width: 150px; height: 150px;" />
 </div>
 
 
